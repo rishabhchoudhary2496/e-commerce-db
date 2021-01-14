@@ -1,0 +1,13 @@
+-- create table user(
+--  user_id int primary key auto_increment,
+--  user_name varchar(30),
+--  user_password varchar(50),
+--  user_phone bigint,
+--  check (length(user_phone)=10)
+-- )
+
+-- insert into user(user_name,user_password,user_phone) values('Alfreds Futterkiste','12345678',9056784321);
+-- insert into user(user_name,user_password,user_phone) values('Ana Trujillo','12345678',9056784322);
+-- insert into user(user_name,user_password,user_phone) values('Antonio Moreno','12345678',9056784323);
+-- insert into user(user_name,user_password,user_phone) values('Thomas Hardy','12345678',9056784324);
+-- insert into user(user_name,user_password,user_phone) values('Christina Berglund','12345678',9056784325);
